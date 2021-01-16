@@ -1,0 +1,13 @@
+# Databases
+db.sqlite3
+
+# Editor configs
+.vscode/
+
+# Static image files
+media/
+# Cache
+__pycache__/
+
+#migration
+migrations/
